@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**caio-vinicius1/caio-vinicius1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Caio 
 
-Here are some ideas to get you started:
+### Desenvolvedor em formação | Estudante de Engenharia de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seja bem-vindo ao meu perfil!
+
+Atualmente estou aprendendo programação e desenvolvendo projetos para aprimorar meus conhecimentos em tecnologia e desenvolvimento de software.
+
+## Tecnologias que estou estudando
+
+-  Python
+-  HTML
+-  CSS
+-  Git e GitHub
+
+##  Atualmente aprendendo
+
+- Lógica de programação
+- Estruturas de dados
+- Desenvolvimento de software
+- Controle de versão com Git
+
+##  Meus objetivos
+
+- Aprimorar minhas habilidades em programação.
+- Desenvolver projetos próprios.
+- Aprender novas tecnologias.
+- Construir soluções utilizando software.
+
+##  Meus projetos
+
+- [Exercícios Python](https://github.com/caio-vinicius1/exercicios-python)
+
+---
+
+⭐ Obrigado pela visita!
+
